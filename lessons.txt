@@ -1,0 +1,13 @@
+Trends
+
+1. Open Source
+- Open as in free
+- Open as in access
+- Open as in over time
+- Open as in not closed
+- Open as in reuse and change
+- Open as in any place and for anyone
+a. Licenses(open source and permissive)
+
+2. Close Source
+3. Proprietary
